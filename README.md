@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Borhan</h1>
 <h3 align="center">A passionate frontend developer from Chittagong, Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-borhan&label=Profile%20views&color=0e75b6&style=flat" alt="md-borhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-borhan" alt="md-borhan" /></a> </p>
-
 - 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **Javascript, React JS**
@@ -28,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-borhan&show_icons=true&locale=en" alt="md-borhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-borhan&" alt="md-borhan" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-borhan&label=Profile%20views&color=0e75b6&style=flat" alt="md-borhan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-borhan" alt="md-borhan" /></a> </p>
