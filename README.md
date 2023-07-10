@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/bmFmHLZ/cover.png" alt="md-borhan" />
+<img src="https://i.ibb.co/WpHXhDB/facebook-cover.png" alt="md-borhan" />
 <h1 align="center">Hi 👋, I'm Borhan</h1>
 <h3 align="center">A passionate frontend developer from Chittagong, Bangladesh</h3>
 
